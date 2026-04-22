@@ -10,6 +10,12 @@
     },
     "android": {
       "package": "com.khtech.exambrowser"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "18e66fd7-583a-4031-8dfd-f64f556c0d8e"
+      }
+    },
+    "owner": "kholil"
   }
 }

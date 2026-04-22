@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Exam Browser KH Tech",
+    "slug": "exambrowser-khtech",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.khtech.exambrowser"
+    },
+    "android": {
+      "package": "com.khtech.exambrowser"
+    }
+  }
+}
